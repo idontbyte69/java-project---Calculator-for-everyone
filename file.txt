@@ -1,0 +1,12 @@
+2023-06-21 00:59:33 4
+2023-06-21 00:59:59 11
+2023-06-21 01:00:49 Sum = 15
+2023-06-21 01:02:00 Addition = 7
+2023-06-21 01:02:15 Subtraction = 1
+2023-06-21 01:03:18 -->>  Subtraction = -3
+2023-06-21 01:09:32 -->>  Invalid input! Factorial is defined only for non-negative integers.
+2023-06-21 01:12:14 -->>  BMR counted for the Men user = 599.7020000000002
+2023-06-21 01:16:59 -->>  Calorie need for the Women user who do Moderate Exercise/Sports 3-5 Days/Week = 1323.784
+2023-06-21 09:28:04 -->>  Area of Triangle = 21.0
+2023-06-21 10:58:54 -->>  Addition = 9
+2023-06-21 10:59:25 -->>  Arithmetic Exception-> Divided by Zero(0)
